@@ -1,0 +1,12 @@
+A Sample registration form has been created using react.js.
+
+To run  the code
+
+1. Download the code as zip file.
+2. Make sure code has yarn/npm installed.
+3. Write 
+	a. npm start
+	or
+	b. yarn start
+
+4. The file should open on localhost:3000  
