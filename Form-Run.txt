@@ -4,9 +4,10 @@ To run  the code
 
 1. Download the code as zip file.
 2. Make sure the system has yarn/npm installed. 
-3. Write 
-	a. npm start
-	or
-	b. yarn start
+3. to insatll the remaining dependencies type 
+
+npm install
+
+on terminal in the folder.
 
 4. The file should open on localhost:3000  
